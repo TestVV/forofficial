@@ -1,1 +1,1 @@
-puts greeter.greet
+puts greeter
